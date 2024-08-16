@@ -1,4 +1,4 @@
 # bismakhushi
 this is my first Git repository.
 <br>
-Author  Bisma.
+Author  Bisma (khushi).
